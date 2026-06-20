@@ -1,0 +1,6 @@
+{
+  "name": "LPG Gas Delivery & Cylinder Exchange",
+  "description": "South Africa's premier local gas refill and cylinder exchange service for homes and businesses. Easy online ordering with WhatsApp dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
